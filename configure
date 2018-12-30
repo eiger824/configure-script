@@ -1,12 +1,12 @@
 #
-# Filename:			configure
+# Filename:         configure
 #
-# Author:			Santiago Pagola <santipagola@gmail.com>
-# Brief:			Generic GNU-Compliant configure script to be used in Makefile-based
+# Author:           Santiago Pagola <santipagola@gmail.com>
+# Brief:            Generic GNU-Compliant configure script to be used in Makefile-based
 #                   projects.
 #                   For more information about the configure script format, visit
 #                   https://www.gnu.org/prep/standards/html_node/Configuration.html
-# Last modified:	sön 30 dec 2018 08:44:52 CET
+# Last modified:    sön 30 dec 2018 08:44:52 CET
 #
 
 #!/bin/bash
