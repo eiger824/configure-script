@@ -435,7 +435,7 @@ cat > $config_out_file << EOF
 $(if [[ -n "$targettype" ]]; then echo "--target=${targettype}"; fi) \
 $(if [[ -n "$hosttype" ]]; then echo "--host=${hosttype}"; fi) \
 --prefix=${prefix} \
---exec_prefix=${prefix} \
+--exec-prefix=${prefix} \
 --bindir=${exec_prefix}/bin \
 --sbindir=${exec_prefix}/sbin \
 --libexecdir=${exec_prefix}/libexec \
